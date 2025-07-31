@@ -1,0 +1,20 @@
+/* 既存のスタイルに加えて以下を追加 */
+
+.realtime-display {
+    margin-top: 20px;
+    padding: 15px;
+    border: 1px solid #b3e0ff; /* 明るい青のボーダー */
+    border-radius: 8px;
+    background-color: #e6f7ff; /* 明るい青の背景 */
+    text-align: left;
+    font-size: 1.1em;
+    color: #0056b3; /* 濃い青のテキスト */
+}
+
+.realtime-display strong {
+    color: #007bff;
+}
+
+#partialText {
+    font-weight: bold;
+}

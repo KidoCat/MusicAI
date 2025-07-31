@@ -1,0 +1,9 @@
+Flask
+python-dotenv
+requests
+pydub
+Flask-SQLAlchemy
+Flask-SocketIO # ★追加
+python-socketio[client] # ★追加 (バックエンドからAmiVoiceへのWebSocket接続用)
+# `engineio` も `Flask-SocketIO` の依存関係としてインストールされます
+janome
