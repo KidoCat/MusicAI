@@ -13,7 +13,7 @@ CORS(app)
 
 # --- APIキーの設定 ---
 # ★必ずご自身の有効なAmiVoice APIキーに書き換えてください
-AMIVOICE_API_KEY = "FF803168CB966673A1573462C70E4DC7C1059563B8E59411BBAB111242B3B1BABF1D9969DD4D" 
+AMIVOICE_API_KEY = "" 
 AMIVOICE_ENDPOINT = 'https://acp-api-async.amivoice.com/v1/recognitions'
 
 # 環境変数からGemini APIキーを設定
